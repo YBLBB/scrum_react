@@ -1,6 +1,6 @@
 import React from 'react'
 import { Form, Input, Button, Divider } from 'antd'
-import LoginWrap from '@components/Login/LoginWrap';
+import LoginWrap from '../components/Login/LoginWrap';
 import { Link, useNavigate } from "react-router-dom"
 import axiosinstance from '../axios/axios';
 

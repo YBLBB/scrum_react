@@ -25,7 +25,7 @@
     /* background: rgba(197, 248, 207, 0.4); *
     border-radius: 6px;
     /* flex: 1; */
-    background-image: url(@public/task-back4.gif);
+    background-image: url(../../../../public/task-back4.gif);
 }
 
 
@@ -70,7 +70,7 @@
     width: 50px;
     height: 40px;
     border-radius: 50%;
-    background: url(@public/touxiang.png);
+    background: url(../../../../public/touxiang.png);
     /* background-position: center center;
     background-repeat: no-repeat; */
     background-size: cover;

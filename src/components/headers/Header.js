@@ -1,5 +1,5 @@
 import React, { memo } from 'react'
-import logo from '@static/logo.png'
+import logo from '../../static/logo.png'
 
 import PopoverItem from './Popover'
 import { useNavigate } from 'react-router-dom'

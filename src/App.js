@@ -10,7 +10,7 @@ import Epic from './pages/Content/Epic/Epic';
 import { useEffect } from 'react';
 import eventBus from './utils/event';
 import { notification } from 'antd';
-import { getOrganizationAsync, getTaskAsync, getUsersAsync } from '@redux/slice/project'
+import { getOrganizationAsync, getTaskAsync, getUsersAsync } from './redux/slice/project'
 import { useDispatch } from 'react-redux';
 import Loading from './components/loading/Loading';
 import { getProjectListAsync } from './redux/slice/project';

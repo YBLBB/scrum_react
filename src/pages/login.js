@@ -2,7 +2,7 @@ import { Button, Divider, Form, Input, Menu } from 'antd';
 
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom';
-import LoginWrap from '@components/Login/LoginWrap';
+import LoginWrap from '../components/Login/LoginWrap';
 import { useForm } from 'antd/es/form/Form';
 // import useMenusStates from '../hook/Menschangestatus';
 import axiosinstance from '../axios/axios';
